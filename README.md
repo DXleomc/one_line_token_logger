@@ -1,7 +1,5 @@
-# one_line_token_logger
-
-## THIS FOR EDUCATIONAL PURPOSES ONLY
-# I am not responsible for anything that happens by using this token logger.
+# THIS FOR EDUCATIONAL PURPOSES ONLY
+## I am not responsible for anything that happens by using this token logger.
 
 A basic discord token logger that cycles through user cookies until it finds a discord cookie, and then will send that cookie to discord webhook.
 Using python and base64, you can shorten this token logger into a single line that can implanted into any application.
